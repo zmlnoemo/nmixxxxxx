@@ -5,4 +5,6 @@
 
 ## 02. GyroGlide : 创新鼠标设计——机器学习——论文复现
 。。。
-## 03. webui && comfyui 使用实测和记录
+## 03. webui && comfyui 生图
+
+## 04. aigc的使用
