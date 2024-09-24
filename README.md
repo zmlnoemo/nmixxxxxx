@@ -8,3 +8,5 @@
 ## 03. webui && comfyui 生图
 
 ## 04. aigc的使用
+#### chatgpt润色文章指令
+##### https://github.com/eseckel/ai-for-grant-writing
